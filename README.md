@@ -1,10 +1,5 @@
 ### Ola, Bem Vindo! Eu sou Caio de Luccas 👋
 
-Um poquinho sobre mim
-Atualmente trabalho com monitoração de servidores na Kyndryl e procuro mudar de área para Ciência de Dados.
-Sou brasileiro
-Moro com 3 cachorros
-Aluno de Ciencia de Dados da DNC e de ADS na Fatec Americana.
 
 <div> 
   <a href="https://www.linkedin.com/in/caiodeluccas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
